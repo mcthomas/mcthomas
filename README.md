@@ -2,7 +2,7 @@
 Hi, I'm [Matt](https://mcthomas.github.io) ✌︎
 
 ![age](https://img.shields.io/badge/age-22-darkred)
-![focus](https://img.shields.io/badge/focus-software_dev-green)
+![focus](https://img.shields.io/badge/focus-software_FF00FF)
 ![living](https://img.shields.io/badge/living-Madison-darkblue)
 
 <br />
