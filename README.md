@@ -1,10 +1,9 @@
-### Hello World
+### Welcome!
 Hi, I'm [Matt](https://mcthomas.github.io) ✌︎
 
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-software_dev-brightgreen)
 ![living](https://img.shields.io/badge/living-Madison-red)
-![visitors](https://mcthomas-visitor-badge.glitch.me/badge?page_id=mcthomas.github.profile)
 
 <br />
 
