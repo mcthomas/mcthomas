@@ -7,7 +7,7 @@ Hi, I'm [Matt](https://mcthomas.github.io) ✌︎
 
 <br />
 
-[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=mcthomas&show_icons=true)](https://github.com/mcthomas)
+[![mcthomas's github stats](https://imwnk-github-stats.vercel.app/api?username=mcthomas&show_icons=true&title_color=fff&icon_color=800080&text_color=9f9f9f&bg_color=151515)](https://github.com/mcthomas)
 
 
 ❯_ From [mcthomas](https://github.com/mcthomas)
