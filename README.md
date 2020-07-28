@@ -1,9 +1,11 @@
 ### ⬇︎ It's dangerous to go alone! Read this ⬇︎
 Hi, I'm [Matt](https://mcthomas.github.io) ✌︎
 
+- Strongest skills: Java, C, C++, C#, Python, UX, Unix 
+
 ![age](https://img.shields.io/badge/age-22-darkred)
-![focus](https://img.shields.io/badge/focus-software_FF00FF)
-![living](https://img.shields.io/badge/living-Madison-darkblue)
+![focus](https://img.shields.io/badge/focus-software_brightgreen)
+![living](https://img.shields.io/badge/living-Madison-blue)
 
 <br />
 
