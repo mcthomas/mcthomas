@@ -4,6 +4,6 @@ Hello, I'm [Matt](https://mcthomas.github.io) ✌︎
 ![focus](https://img.shields.io/badge/focus-software_dev-brightgreen)
 ![living](https://img.shields.io/badge/living-Madison-blue)
 
-Interests ➤ software design, visualization tools, game design, AI, audio engineering, animation
+Interests ➤ software design, data visualization tools, game design/dev, AI, audio engineering, 3D modeling, animation
 
 Strongest skills ➤ Java, C, C++, C#, Python, UX, Unix 
