@@ -1,4 +1,4 @@
-Hello, I'm [Matt](https://mcthomas.github.io) ✌︎
+Hello, I'm Matt
 
 ![age](https://img.shields.io/badge/age-22-red)
 ![focus](https://img.shields.io/badge/focus-software_dev-brightgreen)
