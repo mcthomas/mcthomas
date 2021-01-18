@@ -5,3 +5,5 @@
 Interests ➤ software dev, data visualization tools, game design/dev, AI, audio engineering, 3D modeling, animation
 
 Strongest skills ➤ Java, C, C++, C#, Python, UX, Unix 
+
+[Linkedin](https://www.linkedin.com/in/matt-thomas-9a6a521a3/)
