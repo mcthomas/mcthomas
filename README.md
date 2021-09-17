@@ -1,5 +1,5 @@
 ```C++
-std::string topInterests[5] = {"client-side application dev", "3D graphics dev", "game dev", "data visualizations", "UI/UX"};
+std::string topInterests[5] = {"client-side application dev", "3D graphics dev", "game dev", "creative coding / data visualizations", "UI/UX"};
 
 std::string topLanguages[5] = {"C++", "Java", "Python", "Swift", "GLSL"};
 ```
