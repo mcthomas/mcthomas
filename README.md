@@ -1,8 +1,5 @@
 <p align="center">
-<picture> 
-<source media="(prefers-color-scheme: dark)" width="50" srcset="https://user-images.githubusercontent.com/37082732/208269726-e107d3fb-edc9-4768-8c4d-9f6d5fecceed.png"> 
-   <img alt="">
-</picture>
+<picture> <source media="(prefers-color-scheme: light)" width="50" srcset="https://user-images.githubusercontent.com/37082732/208269726-e107d3fb-edc9-4768-8c4d-9f6d5fecceed.png"> <source media="(prefers-color-scheme: dark)" width="50" srcset="https://user-images.githubusercontent.com/37082732/208269911-9e559645-d995-47c6-b6ea-5d2f4fe0121b.png"> <img alt=""> </picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcthomas&card_width=225&layout=compact&langs_count=10&text_color=7F7F7F&bg_color=00000000&hide_border=true&border_radius=7&hide_title=true&hide=html,javascript,css"/> 
 <img src="spacer.png" width="50"/>
 <img src="x+y^2+z^3.gif"/>
