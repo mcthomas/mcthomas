@@ -1,6 +1,6 @@
 
-<picture width="50"> 
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/37082732/208269726-e107d3fb-edc9-4768-8c4d-9f6d5fecceed.png"> 
+<picture> 
+<source media="(prefers-color-scheme: dark)" width="50" srcset="https://user-images.githubusercontent.com/37082732/208269726-e107d3fb-edc9-4768-8c4d-9f6d5fecceed.png"> 
    <img alt="">
 </picture>
 <p align="center">
