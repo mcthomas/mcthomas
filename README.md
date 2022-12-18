@@ -3,5 +3,5 @@
   <img src="spacer.png" width="10"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcthomas&card_width=225&layout=compact&langs_count=10&text_color=7F7F7F&bg_color=00000000&hide_border=true&border_radius=7&hide_title=true&hide=html,javascript,css"/> 
   <img src="spacer.png" width="40"/>
-  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/37082732/208271275-6d05b737-bccd-4f21-a0a1-603f22061ad1.gif"> <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/37082732/208269961-4fb17c9d-59cb-4183-8ac8-cbefc4ac08b4.gif"> <img alt="x+y^2+z^3"> </picture>
+  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/37082732/208271308-fa23d63e-9704-48fb-9249-95fc86031c55.gif"> <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/37082732/208269961-4fb17c9d-59cb-4183-8ac8-cbefc4ac08b4.gif"> <img alt="x+y^2+z^3"> </picture>
 </p>
